@@ -14,7 +14,7 @@ Mục đích tụi mình tạo ra bộ tài liệu này nhằm giúp các bạn 
 
 Tụi mình hi vọng sẽ trở thành bạn đồng hành đắc lực giúp các bạn tự tin sải bước đến với thành công.
 
-## Tại sao các nên bạn chọn tụi mình?
+## Tại sao các bạn chọn tụi mình?
 Trong bộ tài liệu này ngoài kinh nghiệm của nhóm, tụi mình còn nhận được sự hỗ trợ của các nhóm và công ty lập trình khác nhằm mong muốn nâng cao chất lượng lập trình viên tương lai đồng thời hy vọng tạo ra một nguồn nhân lực trực tiếp cho các bên liên quan.
 
 Đến với tụi mình các bạn sẽ vừa có kiến thức miễn phí vừa có cơ hội lọt vào mắt các nhà tuyển dụng mà tụi mình đang hợp tác. Ngoài ra, nếu các bạn thấy hữu ích và muốn ủng hộ tụi mình để nhóm phát triển nhanh hơn, chất lượng hơn, các bạn cũng có thể donate qua….
