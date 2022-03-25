@@ -1,4 +1,4 @@
-# Nhập Môn Lập Trình (không code, không thuật toán) — Mở đầu
+# Lời Nói Đầu, Tài Liệu Hướng Dẫn Lập Trình Cho Người Mới
 Xin chào những môn đồ mới toanh của ngành IT, đây là tài liệu hướng dẫn lập trình dành cho người mới học được đội ngũ tụi mình biên soạn từ kinh nghiệm thực tế của bản thân. Tụi mình mong muốn mang đến một góc nhìn mới mẻ hơn cho các bạn đang tìm hiểu cũng như có ý định tham gia vào lĩnh vực đang rất được quan tâm hiện nay - ngành lập trình.
 
 Hiện nay tại Việt Nam, các trường đại học chuyên ngành công nghệ thông tin thường sẽ dạy các kiến thức cơ bản để bạn nắm được tư duy lập trình, nhưng hầu như chỉ gói gọn trong khuôn khổ lý thuyết nên có thể làm các bạn không hứng thú hoặc đánh giá tiêu cực với lập trình. 
